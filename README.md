@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Jen Beaudry. After 15 years in academia, I'm now a professional staff member at a university. 
+- 👋 Hi, I’m Jen Beaudry. After 15 years in academia, I'm now a professional staff member in the 
+research office at a university, focused on support others' research careers and aspirations. 
 I don't want to lose my hard-earned (but still relatively novice) R programming skills so I am continuing to 
 use R to analyse evaluations and complete reports on different projects and programs. I am also a passionate
 advocate about open science.
